@@ -1,0 +1,48 @@
+html,body{
+	font-family: 'Roboto', sans-serif;
+}
+
+#what-you-get-container i, #additional-module i{
+	color: rgb(28, 36, 58);
+}
+
+.plan-image img{
+	min-width: 100%;
+	height: auto;
+}
+.bought-info{
+	background-color: rgba(28, 36, 58);
+	color: rgb(200, 202, 207);
+	position: absolute;
+	z-index: 1;
+	height: auto;
+	width: auto;
+	padding: 0px 5px;
+  	border-radius: 0px 0px 5px 0px;
+}
+.bought-info p{
+	margin: auto;
+}
+.content{
+	margin-bottom: 1rem;
+}
+#what-you-get-container{
+	margin-left: auto;
+	margin-right: auto;
+}
+#additional-module-heading{
+	display: inline;
+}
+#house-features small{
+	margin-left: 10px;
+	margin-right: 10px;
+}
+#what-you-get-container div{
+	margin-top: 0;
+	margin-bottom: 0.5rem;
+}
+#start-button{
+	background-color: rgb(28, 36, 58);
+	color: #c8cacf;
+	width: 100%;
+}
